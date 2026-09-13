@@ -1,0 +1,25 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
